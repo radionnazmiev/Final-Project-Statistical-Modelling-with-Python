@@ -1,0 +1,118 @@
+name,category_id,latitude,longitude,location_formatted_address,rating,review_count,bike_station_id,distance
+Congee Noodle Delight,13065,49.2805896869679,-123.106225075342,"88 Pender St W, Vancouver BC V6B 6N9",3.5,91,97b25faf822b93fdbf72da1d594c0288,142.0
+Tagine Moroccan Restaurant and Bar,13065,49.28198,-123.1063304,"51 Hastings St W, Vancouver BC V6B 1G4",4.0,148,97b25faf822b93fdbf72da1d594c0288,162.5
+Caveman Cafe,13065,49.280802324947445,-123.10703500282293,"88 Pender St W (Abbott St), Vancouver BC V6B 6N9",4.5,270,97b25faf822b93fdbf72da1d594c0288,195.0
+Kouign Café,13065,49.280313,-123.1039576,"18 Pender St E, Vancouver BC V6A 1T1",4.5,36,97b25faf822b93fdbf72da1d594c0288,89.5
+Adriatic Divine Sandwiches,13065,49.2816164,-123.1024431,"375 Columbia St, Vancouver BC",5.0,1,97b25faf822b93fdbf72da1d594c0288,152.0
+Raisu,13065,49.2679990419609,-123.158381134272,"2340 4th Ave W, Vancouver BC V6K 1P1",4.0,418,3596b4831ee2ea7812de753b32306835,74.5
+Simpatico Restaurant,13065,49.2680323,-123.1558041,"2222 4th Ave W (at Yew St), Vancouver BC V6K 1N8",3.0,100,3596b4831ee2ea7812de753b32306835,118.5
+Kokomo,13065,49.26788927199584,-123.1573825,"2028 Vine St (West 4th), Vancouver BC V6K 3K1",4.5,24,3596b4831ee2ea7812de753b32306835,56.0
+McDonald's,13065,49.2684244908126,-123.159454209781,"2391 4th Ave W (at Balsam St), Vancouver BC V6K 1P2",2.0,13,3596b4831ee2ea7812de753b32306835,146.0
+Peaceful Restaurant,13065,49.26798,-123.15965,"2394 4th Ave W, Vancouver BC V6K 1P1",3.0,110,3596b4831ee2ea7812de753b32306835,160.0
+Deja Brew,13065,49.2636604,-123.1251297,"943 Broadway W, Vancouver BC V5Z 4E1",4.5,52,ace20c241ee38643c9060f290b215b9d,187.0
+Halfday Tea + Flower,13065,49.2635709085802,-123.124036450926,"895 Broadway W, Vancouver BC V5Z 1J9",4.5,6,ace20c241ee38643c9060f290b215b9d,169.0
+Legendary Noodle,13065,49.2635149,-123.1238718,"887 Broadway W (Laurel Street), Vancouver BC V5Z 1J9",3.5,8,ace20c241ee38643c9060f290b215b9d,171.0
+On Lok,13065,49.2808579,-123.0633046,"2010 Hastings St E (at Semlin Dr.), Vancouver BC V5L 1T8",3.0,81,aed214941445e0345aa3254805a9e8b8,199.0
+Pelican Seafood Restaurant,13065,49.2815811,-123.0661289,"1895 Hastings St E (Victoria Street), Vancouver BC V5L 1T3",3.0,76,aed214941445e0345aa3254805a9e8b8,150.5
+Les Faux Bourgeois,13065,49.2572813531481,-123.089767330802,"663 15th Ave E (at Fraser & Kingsway), Vancouver BC V5T 2R6",4.0,450,08c7a90bf297fde8c1f1156db13987d4,82.0
+Sal y Limón,13065,49.2569043786921,-123.08924632997,"701 Kingsway (at Fraser St), Vancouver BC V5T 3K6",4.0,644,08c7a90bf297fde8c1f1156db13987d4,116.5
+Los Cuervos Taqueria Y Cantina,13065,49.2574755005862,-123.091043941677,"603 Kingsway, Vancouver BC V5T 3K5",4.0,181,08c7a90bf297fde8c1f1156db13987d4,132.0
+Ba Le Sandwich Shop,13065,49.25682,-123.08919,"701 Kingsway (at Fraser St), Vancouver BC V5T 3K6",4.0,139,08c7a90bf297fde8c1f1156db13987d4,134.5
+The Lion's Den Cafe,13065,49.257273,-123.089984,"651E 15th Ave E (Fraser), Vancouver BC V5T 2R6",4.0,71,08c7a90bf297fde8c1f1156db13987d4,96.0
+Famoso Neapolitan Pizzeria,13065,49.272346,-123.0693715,"1380 Commercial Dr (at Kitchener St), Vancouver BC V5L 3X6",3.5,247,b562f08327af465e4531e20226789489,99.0
+Marcello,13065,49.27204590144254,-123.06943334795372,"1404 Commercial Dr (at Kitchener St), Vancouver BC V5L 3X9",3.0,332,b562f08327af465e4531e20226789489,119.0
+Sweet Cherubim,13065,49.2746855,-123.0697373,"1105 Commercial Dr (at Napier), Vancouver BC V5L 3X3",3.5,112,b562f08327af465e4531e20226789489,173.0
+Cafe Du Soleil,13065,49.2722732,-123.0697861,"1393 Commercial Dr (kitchener street), Vancouver BC V5L 3X5",4.0,81,b562f08327af465e4531e20226789489,81.0
+The Charlatan,13065,49.2717298,-123.0697249,"1447 Commercial Dr (at Grant St), Vancouver BC V5L 3X8",3.5,155,b562f08327af465e4531e20226789489,176.0
+The Pizza Castle & Indian Curry,13065,49.2746537,-123.0693243,"1110 Commercial Dr (Napier), Vancouver BC V5L 3X2",4.0,18,b562f08327af465e4531e20226789489,177.5
+Marcello,13065,49.27204590144254,-123.06943334795372,"1404 Commercial Dr, Vancouver BC V5L 3X9",3.0,332,b562f08327af465e4531e20226789489,123.5
+Finch's Market,13065,49.2785699636665,-123.093410391164,"501 Georgia St E (at Jackson St), Vancouver BC V6A 1Z8",4.0,37,9a48ca226f82f52d02707b054ebc7e9e,166.5
+Swiss Bakery,13065,49.2683832324201,-123.10165840848,"143 3rd Ave E (Between Quebec & Main), Vancouver BC V5T 1C7",4.0,123,9a5478470b56379c31cf4e671584d5cc,108.5
+Glory Juice,13065,49.2690951,-123.1030816,"78 2nd Ave E, Vancouver BC V5T 1B1",3.5,44,9a5478470b56379c31cf4e671584d5cc,106.0
+Hon's Wonton House,13065,49.2694661422672,-123.104120051588,"25E 2Nd Ave E 2Nd, Vancouver BC V5T 1B3",3.0,58,9a5478470b56379c31cf4e671584d5cc,147.0
+Blaze Gourmet Burgers,13065,49.2666437,-123.1037431,"43 5th Ave E, Vancouver BC V5T 1G7",4.5,22,9a5478470b56379c31cf4e671584d5cc,182.5
+Rodney's Oyster House,13065,49.2744326,-123.1232482,"1228 Hamilton St (at Drake St), Vancouver BC V6B 6L2",4.0,807,e9b37f2d9b7b2e2e3ade73f13acb69b2,158.5
+Yamato Sushi Restaurant,13065,49.2766,-123.12572,"616 Davie St (at Seymour St), Vancouver BC V6B 2G5",3.5,256,e9b37f2d9b7b2e2e3ade73f13acb69b2,137.0
+Manoush'eh,13065,49.27667072314417,-123.12570086148996,"620 Davie St (btwn Granville & Seymour), Vancouver BC V6B 2G5",5.0,225,e9b37f2d9b7b2e2e3ade73f13acb69b2,138.5
+O-Cha Tea Bar,13065,49.2760572,-123.121789,"1116 Homer St (at Helmcken St), Vancouver BC V6B 2X6",4.5,32,e9b37f2d9b7b2e2e3ade73f13acb69b2,190.0
+Saigon Xua,13065,49.2743960598955,-123.12363240352406,"1257 Hamilton St, Vancouver BC V6B 6K3",3.0,16,e9b37f2d9b7b2e2e3ade73f13acb69b2,150.5
+Grand Chinese Yaletown Restaurant,13065,49.2746237358146,-123.123414612796,"1233 Hamilton St (Hamilton), Vancouver BC V6B 6K3",3.5,31,e9b37f2d9b7b2e2e3ade73f13acb69b2,145.0
+Happy Noodle House,13065,49.27664,-123.12578,"630 Davie St, Vancouver BC V6B 2G5",4.5,66,e9b37f2d9b7b2e2e3ade73f13acb69b2,147.5
+Hubbub,13065,49.2820063076819,-123.12302492559,"859 Hornby St (btwn Robson & Smithe), Vancouver BC V6Z 1T9",4.0,226,32f70f7ae14ba87523c6286a6c4d5c37,136.5
+Bacchus Restaurant & Lounge,13065,49.28232,-123.12281,"845 Hornby St (btwn Smithe & Robson St), Vancouver BC V6Z 1V1",4.0,182,32f70f7ae14ba87523c6286a6c4d5c37,155.5
+Earls Kitchen + Bar,13065,49.28153637059821,-123.12368905939982,"905 Hornby St (at Smithe St.), Vancouver BC V6Z 1V3",3.5,277,32f70f7ae14ba87523c6286a6c4d5c37,130.0
+Score on Davie,13065,49.2823221457395,-123.134614739512,"1262 Davie St (btwn Jervis & Bute), Vancouver BC V6E 1N3",4.5,344,df5ab349a7a85d4b10da4cc3ec65c607,194.5
+Kinara Indian Cuisine,13065,49.2831201857873,-123.135653703493,"1326 Davie St, Vancouver BC V6E 1N6",4.0,32,df5ab349a7a85d4b10da4cc3ec65c607,78.5
+Akbar's Own Dining Lounge,13065,49.2638957,-123.1483493,"1905W Broadway W (at Cypress Street), Vancouver BC V6J 1Z3",3.5,102,e0318460138ffbf4692005d5b5a9f900,113.0
+Homer St. Cafe and Bar,13065,49.2783665,-123.1182373,"898 Homer St (at Smithe St.), Vancouver BC V6B 2W5",3.5,343,0e0aef6fabaa808b3a3cef24657257a4,104.5
+Paramount Fine Foods,13065,49.2803610180563,-123.118611177157,"560 Robson St (at Seymour St), Vancouver BC V6B 2B7",3.5,148,0e0aef6fabaa808b3a3cef24657257a4,133.0
+Uva Wine & Cocktail Bar,13065,49.27946,-123.12045,"900 Seymour St (at Smithe St.), Vancouver BC V6B 3L9",4.0,204,0e0aef6fabaa808b3a3cef24657257a4,96.0
+JINYA Ramen Bar - Vancouver,13065,49.28031515071204,-123.11793569570304,"541 Robson St (at Richards St), Vancouver BC V6B 1A6",4.0,414,0e0aef6fabaa808b3a3cef24657257a4,146.0
+Per Se Social Corner,13065,49.2785831916346,-123.118480343303,"891 Homer St (Homer and Smithe), Vancouver BC V6B 2W2",3.5,231,0e0aef6fabaa808b3a3cef24657257a4,92.5
+Red Card Sports Bar + Eatery,13065,49.2793335643147,-123.120303153992,"560 Smithe St (Seymour), Vancouver BC V6B 0A8",3.0,112,0e0aef6fabaa808b3a3cef24657257a4,89.5
+Pizza Garden Smithe,13065,49.2802367,-123.1210328,"675 Smithe St (at Granville St.), Vancouver BC V6B 2C9",3.5,145,0e0aef6fabaa808b3a3cef24657257a4,164.5
+Cibo Trattoria,13065,49.27946,-123.12045,"900 Seymour St (at Smithe St), Vancouver BC V6B 3L9",3.5,132,0e0aef6fabaa808b3a3cef24657257a4,98.0
+Bentoya,13065,49.2800969076001,-123.118120506406,"500 Robson St (Robson St and Richards St), Vancouver BC V6B 2B7",4.0,31,0e0aef6fabaa808b3a3cef24657257a4,120.0
+Pelicana Chicken,13065,49.27920182795086,-123.1167646497488,"382 Robson St (Homer St.), Vancouver BC V6B 2B2",3.5,2,0e0aef6fabaa808b3a3cef24657257a4,175.5
+Falafel King,13065,49.2802107,-123.118284,"516 Robson St, Vancouver BC V6B 2B7",3.5,34,0e0aef6fabaa808b3a3cef24657257a4,119.5
+DQ / Orange Julius Store,13065,49.279578,-123.1174955,"438 Robson St, Vancouver BC V6B 0H3",3.0,13,0e0aef6fabaa808b3a3cef24657257a4,126.5
+Edible Flours,13065,49.2637482974399,-123.156828558096,"2280 West Broadway (btwn Vine & Yew), Vancouver BC V6K 2E3",4.0,81,2681455ba2d97283998a806b14d3e95c,105.0
+Z&W Shanghai,13065,49.2635679666207,-123.153370158669,"2126 West Broadway, Vancouver BC V6K 2C8",4.0,23,2681455ba2d97283998a806b14d3e95c,132.5
+Jamjar - Folk Lebanese Food,13065,49.264412,-123.0695951,"2280 Commercial Dr at E 7th Ave (at E 7th Ave), Vancouver BC V5N 4B5",4.0,254,c64ee19c62a363019ddbaedf71df2882,77.0
+Uncle Fatih's Pizza,13065,49.2624549,-123.0700874,"1685 Broadway E (Commercial Dr), Vancouver BC V5N 1V9",3.5,171,c64ee19c62a363019ddbaedf71df2882,151.5
+Loku Japanese Cuisine,13065,49.264412,-123.0695951,"2280 Commercial Dr, Vancouver BC V5N 4B5",3.5,25,c64ee19c62a363019ddbaedf71df2882,75.5
+B House,13065,49.264473795087,-123.069533295929,"2260 Commercial Dr, Vancouver BC V5N 4B5",4.5,19,c64ee19c62a363019ddbaedf71df2882,79.0
+Sunshine Diner,13065,49.264136,-123.165389,"2649W Broadway W (btwn Stephens & Trafalgar), Vancouver BC V6K 2G2",3.5,149,abfaf72456a4828a22f5bf60d3a80777,58.5
+Nat's New York Pizzeria,13065,49.2638609,-123.1659228,"2684 Broadway W (btw Stephens & Trafalgar), Vancouver BC V6K 2G3",3.5,119,abfaf72456a4828a22f5bf60d3a80777,99.0
+White Spot,13065,49.2638179420072,-123.163287331925,"2518 Broadway W, Vancouver BC V6K 2G1",3.5,64,abfaf72456a4828a22f5bf60d3a80777,115.5
+Coco et Olive Fine Foods & Cafe,13065,49.251657,-123.1011876,"3707 Main St (21st Ave), Vancouver BC V5V 3N8",3.5,82,89a0b49a66e54a7639ad960962148a3e,108.0
+Bob Likes Thai Food,13065,49.25134,-123.10133,"3755 Main St (22nd Avenue E), Vancouver BC V5V 3N8",3.5,193,89a0b49a66e54a7639ad960962148a3e,149.0
+Pizza Hut,13065,49.2543999,-123.10131,"3425 Main St, Vancouver BC V5V 3M9",1.5,38,89a0b49a66e54a7639ad960962148a3e,185.5
+New Sun Restaurant,13065,49.2592643,-123.1152101,"2925 Cambie St, Vancouver BC V5Z 2V7",3.5,27,07b13214cb69f2ec007d888450f3d6bc,47.5
+Bubble Waffle Cafe,13065,49.26086,-123.11629,"555 12th Ave W, Vancouver BC V5Z 3X7",4.0,17,07b13214cb69f2ec007d888450f3d6bc,187.0
+Five Star Fried Chicken,13065,49.26086,-123.11629,"555 12th Ave W (Cambie St), Vancouver BC V5Z 3X7",3.0,6,07b13214cb69f2ec007d888450f3d6bc,189.5
+Peaked Pies,13065,49.2896489,-123.1384797,"975 Denman St, Vancouver BC V6G 2M3",4.5,194,f5e8fa1fc4252bda2f93dd27ed2d603f,65.0
+Legendary Noodle House,13065,49.2883958,-123.13983,"1074 Denman St (at Comox St), Vancouver BC V6G 2M8",3.5,227,f5e8fa1fc4252bda2f93dd27ed2d603f,118.0
+A&W,13065,49.28962299,-123.13854395,"991 Denman St, Vancouver BC V6G 2M3",3.5,4,f5e8fa1fc4252bda2f93dd27ed2d603f,60.5
+Cafe Phin and Pho,13065,49.2896213,-123.1380437,"976 Denman St (btwn Nelson & Barclay), Vancouver BC V6G 2M1",4.0,144,f5e8fa1fc4252bda2f93dd27ed2d603f,70.5
+Panago Pizza,13065,49.289681,-123.1384315,"969 Denman St (btwn Barclay & Nelson), Vancouver BC V6G 2M3",3.0,20,f5e8fa1fc4252bda2f93dd27ed2d603f,70.5
+Gillaneh Grill House,13065,49.2884058,-123.1398146,"1072 Denman St (Comox), Vancouver BC V6G 2M8",3.0,40,f5e8fa1fc4252bda2f93dd27ed2d603f,116.0
+Nat's New York Pizzeria,13065,49.28829,-123.13985,"1080 Denman St, Vancouver BC V6G 2M8",3.5,94,f5e8fa1fc4252bda2f93dd27ed2d603f,132.0
+Big Bang Sushi,13065,49.2883087715973,-123.140502534807,"1103 Denman St, Vancouver BC V6G 2M7",4.5,13,f5e8fa1fc4252bda2f93dd27ed2d603f,175.5
+Tableau Bar Bistro,13065,49.287494,-123.1235689,"1181 Melville St (btwn Bute & Thurlow), Vancouver BC V6E 0A3",4.0,264,c2a9c5d0e4578b928554c86f3d2c1162,42.0
+Sciué Italian Bakery Caffé,13065,49.28691,-123.1224397,"1115 Melville St (Thurlow St.), Vancouver BC V6E 0B7",3.0,23,c2a9c5d0e4578b928554c86f3d2c1162,154.0
+Freshii,13065,49.287017267423145,-123.1247321909074,"1185 Georgia St W (Bute), Vancouver BC V6E 4E6",2.5,43,c2a9c5d0e4578b928554c86f3d2c1162,111.5
+Time Out Cafe,13065,49.2871308,-123.1233201,"1150 Melville St (btwn Thurlow and Bute), Vancouver BC V6E 4P6",1.5,8,c2a9c5d0e4578b928554c86f3d2c1162,91.0
+Symphonie Restaurant,13065,49.28776311589496,-123.12195483585218,"1140 Pender St W (Pender & Thurlow), Vancouver BC V6E 4G1",4.0,47,c2a9c5d0e4578b928554c86f3d2c1162,168.5
+Steamworks Brewing Company,13065,49.28498,-123.11084,"375 Water St (at Richards St), Vancouver BC V6B 5C6",3.5,776,5f45325fdd6334a4c0d3b62853b19fa6,105.5
+The Poke Guy,13065,49.2837389,-123.1120629,"420 Richards St (at W Hastings St), Vancouver BC V6B 2Z3",4.5,207,5f45325fdd6334a4c0d3b62853b19fa6,142.0
+Trees Organic Coffee,13065,49.2848880197924,-123.114343569975,"450 Granville St (btwn W. Hastings & W. Pender St.), Vancouver BC V6C 1V4",3.5,173,5f45325fdd6334a4c0d3b62853b19fa6,145.0
+Vegan Pudding,13065,49.2837981796105,-123.11221144443,"422 Richards St, Vancouver BC V6B 2Z4",4.5,85,5f45325fdd6334a4c0d3b62853b19fa6,142.5
+Kita No Donburi,13065,49.2845695,-123.1132762,"423 Seymour St (at W Hastings St), Vancouver BC V6B 3H5",3.5,140,5f45325fdd6334a4c0d3b62853b19fa6,83.5
+Deville Coffee,13065,49.2853546768392,-123.11246584304324,"325 Seymour St (W Cordova St), Vancouver BC V6B 0S8",4.5,15,5f45325fdd6334a4c0d3b62853b19fa6,25.5
+Waves Coffee House,13065,49.2837817,-123.1119746,"492 Hastings St W (at Richards St), Vancouver BC V6B 1L1",2.5,38,5f45325fdd6334a4c0d3b62853b19fa6,140.0
+Freshslice Pizza,13065,49.2838171,-123.1132851,"549 Pender St W (btwn Seymour & Richards St), Vancouver BC V6B 1V5",2.0,23,5f45325fdd6334a4c0d3b62853b19fa6,163.0
+Burger King,13065,49.2840347,-123.1141891,"612 Pender St W, Vancouver BC V6B 1V8",2.0,17,5f45325fdd6334a4c0d3b62853b19fa6,176.0
+De Dutch,13065,49.2673825,-123.112985,"410 2nd Ave W (Yukon St), Vancouver BC V5Y 1E2",2.5,40,680b1ddfd50c4397b365c9c00f09b0d1,55.5
+reLiSH Gourmet Burgers,13065,49.2679537,-123.1117883,"340 2nd Ave W, Vancouver BC V5Y 1C8",2.5,6,680b1ddfd50c4397b365c9c00f09b0d1,108.5
+Bufala,13065,49.2374125128053,-123.155639817237,"5395 West Blvd (at W 38th Ave), Vancouver BC V6M 3W4",3.5,148,7f091b50fbbd892bf9fb869a64c47120,88.5
+White Spot Kerrisdale,13065,49.2376472,-123.155693,"5367 West Blvd (37th), Vancouver BC V6M 3W4",2.5,50,7f091b50fbbd892bf9fb869a64c47120,65.5
+McDonald's,13065,49.2851579983642,-123.064025,"1965 Powell St (at Semlin Dr), Vancouver BC V5L 1J2",2.5,9,7c17f51469f1a7145455f65ef6afbd87,183.0
+Dundas Eat + Drink,13065,49.285084,-123.062273,"2077 Dundas St (Lakewood Dr), Vancouver BC V5L 1J5",4.5,71,7c17f51469f1a7145455f65ef6afbd87,73.5
+Landmark Hotpot House,13065,49.2498660758194,-123.11556053834,"4023 Cambie St (at W. King Edward Ave.), Vancouver BC V5Z 2X9",4.0,121,549f00f6039e8bb702a00dcca08a8ed0,82.0
+Kosoo Restaurant,13065,49.2890856,-123.1326402,"832 Cardero St, Vancouver BC V6G 2G5",3.5,165,0c42f45e4a14957ad4a6d521d0ba8bc3,10.5
+Sura Korean Cuisine,13065,49.2888601838143,-123.131742169312,"1518 Robson St, Vancouver BC V6G 1C2",4.0,426,0c42f45e4a14957ad4a6d521d0ba8bc3,84.0
+Hokkaido Ramen Santouka,13065,49.290236,-123.133811,"1690 Robson St (at Bidwell St), Vancouver BC V6G 1C7",4.0,987,0c42f45e4a14957ad4a6d521d0ba8bc3,137.0
+Viet Sub,13065,49.2901826,-123.1337111,"1682 Robson St (btwn Bidwell & Cardero), Vancouver BC V6G 1C7",4.0,64,0c42f45e4a14957ad4a6d521d0ba8bc3,119.0
+Zabu Chicken,13065,49.289849,-123.132666,"1635 Robson St, Vancouver BC V6G 1C8",3.0,232,0c42f45e4a14957ad4a6d521d0ba8bc3,65.0
+Hongdae Pocha Korean BBQ,13065,49.28972,-123.1333,"1642 Robson St, Vancouver BC V6G 1C7",3.0,34,0c42f45e4a14957ad4a6d521d0ba8bc3,75.5
+McDonald's,13065,49.2906798162448,-123.133832132379,"1701 Robson St (at Bidwell St), Vancouver BC V6G 1C9",2.5,12,0c42f45e4a14957ad4a6d521d0ba8bc3,179.0
+Collective Goods Bistro & Grocer,13065,49.2531205,-123.0678002,"3532 Commercial St, Vancouver BC V5N 4E9",4.0,18,62a202eb98c0a4b09ba6746f5ee94ab3,53.5
+Number e food,13065,49.277569151917,-123.131018212403,"1308 Burrard St (Drake St), Vancouver BC V6Z 2B7",5.0,135,a6c6df138cbc97b9f81e7ffbbebdde6f,117.0
+Nando's,13065,49.2778746,-123.1276559,"828 Davie St (at Howe St.), Vancouver BC V6Z 2S2",3.5,202,a6c6df138cbc97b9f81e7ffbbebdde6f,147.5
+Sushi Mugen,13065,49.2786508,-123.1282232,"903 Davie St, Vancouver BC V6Z 1B9",4.0,106,a6c6df138cbc97b9f81e7ffbbebdde6f,147.5
+Firecrust,13065,49.2777868,-123.1274639,"808 Davie St (Howe St), Vancouver BC V6Z 2S2",4.0,140,a6c6df138cbc97b9f81e7ffbbebdde6f,138.5
+Giardino,13065,49.276991,-123.1301021,"1328 Hornby St (Drake), Vancouver BC V6Z 1W5",4.0,123,a6c6df138cbc97b9f81e7ffbbebdde6f,73.5
+Subway,13065,49.2767593,-123.1270705,"1255 Granville St, Vancouver BC V6Z 1M5",2.0,1,a6c6df138cbc97b9f81e7ffbbebdde6f,185.0
+Daikichi Sushi,13065,49.2773454,-123.1314919,"1346 Burrard St (at Harwood St.), Vancouver BC V6Z 2B7",3.0,83,a6c6df138cbc97b9f81e7ffbbebdde6f,149.0
+White Spot,13065,49.276139219048,-123.128192383024,"718 Drake St (at Granville St), Vancouver BC V6Z 2W6",2.5,89,a6c6df138cbc97b9f81e7ffbbebdde6f,187.5
